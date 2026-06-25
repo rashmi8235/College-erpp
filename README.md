@@ -4,12 +4,12 @@
 
 ### Enterprise Resource Planning Solution for Educational Institutions
 
-[![Stars](https://img.shields.io/github/stars/Ansarimajid/College-ERP?style=for-the-badge&logo=github)](https://github.com/Ansarimajid/College-ERP)
+[![Stars](https://img.shields.io/github/stars/rashmi8235/College-erpp?style=for-the-badge&logo=github)](https://github.com/rashmi8235/College-erpp)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-[Live Demo](https://syncx.pythonanywhere.com) • [Report Bug](https://github.com/Ansarimajid/College-ERP/issues) • [Request Feature](https://github.com/Ansarimajid/College-ERP/issues)
+[Report Bug](https://github.com/rashmi8235/College-erpp/issues) • [Request Feature](https://github.com/rashmi8235/College-erpp/issues)
 
 </div>
 
@@ -19,7 +19,6 @@
 
 - [About](#-about)
 - [Features](#-features)
-- [Demo Credentials](#-demo-credentials)
 - [Technology Stack](#-technology-stack)
 - [Installation](#-installation)
 - [Screenshots](#-screenshots)
@@ -90,20 +89,6 @@
 
 ---
 
-## 🔑 Demo Credentials
-
-### 🌐 Live Demo
-Visit: **[https://syncx.pythonanywhere.com](https://syncx.pythonanywhere.com)** (v2.0.0)
-
-### Login Details
-
-| Role | Email | Password |
-|------|-------|----------|
-| 👨‍🎓 **Student** | `studentone@student.com` | `studentone` |
-| 👨‍🏫 **Staff** | `staffone@staff.com` | `staffone` |
-
----
-
 ## 🛠️ Technology Stack
 
 | Category | Technologies |
@@ -112,7 +97,6 @@ Visit: **[https://syncx.pythonanywhere.com](https://syncx.pythonanywhere.com)** 
 | **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
 | **Database** | SQLite (Development), PostgreSQL (Production Ready) |
 | **Authentication** | Django Auth, Google reCAPTCHA |
-| **Deployment** | PythonAnywhere |
 
 ---
 
@@ -131,8 +115,8 @@ Ensure you have the following installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ansarimajid/College-ERP.git
-cd College-ERP
+git clone https://github.com/rashmi8235/College-erpp.git
+cd College-erpp
 ```
 
 #### 2️⃣ Create Virtual Environment
@@ -150,7 +134,7 @@ conda activate Django-env
 
 ```bash
 python -m venv venv
-source venv/scripts/activate
+venv\Scripts\activate
 ```
 </details>
 
@@ -218,7 +202,6 @@ python3 manage.py runserver
 ![Demo Screenshot](Showcase/Screenshot_01.png)
 ![Demo Screenshot](Showcase/Screenshot_02.png)
 
-
 ---
 
 ## 🗺️ Roadmap
@@ -239,7 +222,6 @@ python3 manage.py runserver
 - [x] Password reset functionality
 
 ### 🔜 Upcoming Features
-
 
 - [ ] SMS notifications
 - [ ] Advanced reporting and analytics
@@ -275,8 +257,8 @@ If you find this project helpful, please consider:
 
 ### Connect with the Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ansarimajid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansmajidali)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rashmi8235)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rashmi-raj-661975279)
 
 ---
 
@@ -290,9 +272,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Having issues? Need help?
 
-- 📧 **Email:** [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/Ansarimajid/College-ERP/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/Ansarimajid/College-ERP/discussions)
+- 📧 **Email:** [rashmisingh8235@gmail.com](mailto:rashmisingh8235@gmail.com)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/rashmi8235/College-erpp/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/rashmi8235/College-erpp/discussions)
 
 ---
 
@@ -300,9 +282,9 @@ Having issues? Need help?
 
 ### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ansarimajid/College-ERP&type=Date)](https://star-history.com/#Ansarimajid/College-ERP&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rashmi8235/College-erpp&type=Date)](https://star-history.com/#rashmi8235/College-erpp&Date)
 
-**Made with ❤️ by [Ansari Majid](https://github.com/Ansarimajid)**
+**Made with ❤️ by [Rashmi Raj](https://github.com/rashmi8235)**
 
 *If this project helped you, consider giving it a star! ⭐*
 
